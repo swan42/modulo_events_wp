@@ -1091,3 +1091,10 @@ Stack trace:
 [17-May-2020 21:28:03 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
 [17-May-2020 21:28:08 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
 [17-May-2020 21:28:08 UTC] PHP Notice:  Undefined variable: count in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\single-modulo-event.php on line 77
+[17-May-2020 21:40:00 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
+[17-May-2020 21:40:01 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
+[17-May-2020 21:41:00 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
+[17-May-2020 21:43:01 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
+[17-May-2020 21:45:02 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
+[17-May-2020 21:47:03 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
+[17-May-2020 21:49:04 UTC] PHP Deprecated:  Function create_function() is deprecated in D:\Dev\xampp\apps\wordpress\htdocs\wp-content\themes\modulo_event_theme\functions.php on line 384
